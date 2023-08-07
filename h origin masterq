@@ -1,0 +1,73 @@
+* [33mcommit 059f84dc140379f0cf306610bbde8b09b379b87b[m[33m ([m[1;32mnew-feature[m[33m)[m
+[31m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[31m|[m Date:   Mon Aug 7 15:28:04 2023 +0200
+[31m|[m 
+[31m|[m     New feature
+[31m|[m   
+*   [33mcommit caf7e756261d2af34f42586725090726c37adadf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[32m|[m[33m\[m  Merge: c35c985 69e7443
+[32m|[m [33m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[32m|[m [33m|[m Date:   Mon Aug 7 15:18:34 2023 +0200
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge conflict resolved
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 69e744314ef62974a318a0ca7c9856a60118651d[m[33m ([m[1;32mconflict[m[33m)[m
+[32m|[m [33m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[32m|[m [33m|[m Date:   Mon Aug 7 15:12:18 2023 +0200
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     conflict 1
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit c35c9858ce23be8f13ce908c6cb6f40b0e8dda00[m
+[33m|[m[33m/[m  Author: Erik Skauen <erik.skauen@gjensidige.no>
+[33m|[m   Date:   Mon Aug 7 15:13:16 2023 +0200
+[33m|[m   
+[33m|[m       conflict 2
+[33m|[m   
+*   [33mcommit 92bd8a67a591150bb3a6c6f6333e7e545820a698[m
+[34m|[m[35m\[m  Merge: eb54ff2 b5aa404
+[34m|[m [35m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[34m|[m [35m|[m Date:   Mon Aug 7 15:07:47 2023 +0200
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Merging feature1 into Master
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit b5aa404bbbf8f5a459868c0a19a4563d857cd675[m[33m ([m[1;32mfeature1[m[33m)[m
+[34m|[m [35m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[34m|[m [35m|[m Date:   Mon Aug 7 15:03:33 2023 +0200
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     feature1 - final
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 0507bee478e9e8120aa61749b8757de4e55080bc[m
+[34m|[m [35m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[34m|[m [35m|[m Date:   Mon Aug 7 14:55:36 2023 +0200
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     feature commit 2
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 2fb5ff11b63b6c3b70a8c612a62c769b5ec6da69[m
+[34m|[m [35m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[34m|[m [35m|[m Date:   Mon Aug 7 14:54:34 2023 +0200
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     feature commit 1
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit eb54ff205de87fd9a5eb34644d08c2d9737ee8fd[m
+[35m|[m[35m/[m  Author: Erik Skauen <erik.skauen@gjensidige.no>
+[35m|[m   Date:   Mon Aug 7 14:57:52 2023 +0200
+[35m|[m   
+[35m|[m       bug fix
+[35m|[m 
+* [33mcommit 53042da7bd39897359771e0d11a2cc79a7df93cd[m
+[35m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[35m|[m Date:   Mon Aug 7 14:46:55 2023 +0200
+[35m|[m 
+[35m|[m     version3
+[35m|[m 
+* [33mcommit bef291c8790eb7ebc7192ebed54b52402c8c3767[m
+[35m|[m Author: Erik Skauen <erik.skauen@gjensidige.no>
+[35m|[m Date:   Mon Aug 7 14:46:10 2023 +0200
+[35m|[m 
+[35m|[m     version2
+[35m|[m 
+* [33mcommit b837b1c1d3cd3b5202dd759d63b5358caae46e5d[m
+  Author: Erik Skauen <erik.skauen@gjensidige.no>
+  Date:   Mon Aug 7 14:45:49 2023 +0200
+  
+      version1
